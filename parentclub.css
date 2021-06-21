@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body{
+	background-color:#408080;
+}
+iframe{
+	background-color:#d1d1d1;
+}
+.chat{
+	color:#c0c0c0;
+}
+h1{
+	color:#ffffff;
+	font-size:20pt;
+	font-weight:bold;
+}
